@@ -1,0 +1,24 @@
+{
+  "name": "xv_33",
+  "version": "1.0.0",
+  "description": "exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/ --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaKUB/cagXsample.git"
+  },
+  "author": "Sofia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofiaKUB/cagXsample/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+
+}
